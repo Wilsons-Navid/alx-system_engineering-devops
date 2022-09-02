@@ -1,1 +1,1 @@
- adds execute permission to all subdirectories
+ creates a directory called my_dir with permissions 751 in the working directory.
