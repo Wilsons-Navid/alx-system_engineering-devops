@@ -1,3 +1,3 @@
-prints only words that appear exactly once.
+ines containing the pattern “root” from the file /etc/passwd
 
 
