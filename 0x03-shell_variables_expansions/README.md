@@ -1,1 +1,1 @@
- a number from base 10 to base 16.
+decodes text using the rot13 encryption. 
